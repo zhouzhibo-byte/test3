@@ -1,1 +1,1 @@
-print('333q w`1')
+print('main')
