@@ -1,7 +1,4 @@
-import os
-
-print(11)
-print(22)
-print(33)
-print(44)
-print(55)
+def a():
+    return [1,2,3]
+c,v,b = a()
+print(c,v,b)
